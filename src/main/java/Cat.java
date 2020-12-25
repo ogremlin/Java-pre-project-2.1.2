@@ -1,6 +1,6 @@
 import lombok.Data;
 
 @Data
-public class HelloWorld {
+public class Cat {
     private String message;
 }
